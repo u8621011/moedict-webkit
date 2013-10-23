@@ -14,6 +14,7 @@
 ```
 sudo npm install -g LiveScript
 npm install webworker-threads
+(npm install webworker-threads --msvs_version=2012, 如果使用 Visual Stuido 2012)
 gem install sass
 ```
 
